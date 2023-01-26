@@ -1,3 +1,3 @@
 a=5
 b=5
-print(a+b)
+print("Sum of two value is",a+b)
